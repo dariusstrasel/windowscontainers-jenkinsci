@@ -7,7 +7,7 @@ The blog post: http://blog.alexellis.io/continuous-integration-docker-windows-co
 ### Build this as a local image:
 
 ```
-docker build -t windows-java:jre1.8.0_91 .
+docker build -t windows-java:jre1.8.0_91 ./java_jre
 ```
 
 ### Build the image:
